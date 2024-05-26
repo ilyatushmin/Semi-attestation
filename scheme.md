@@ -1,0 +1,1 @@
+![Схема решения](scheme_semi-attestation.png) 
